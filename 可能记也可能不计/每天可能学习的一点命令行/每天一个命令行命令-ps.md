@@ -115,5 +115,5 @@ ps -axjf
 ps au #现行终端机下以 User 为主的 ps 命令,可以搭配 pipline 进行配合寻找
 ```
 
-![CleanShot 2023-01-30 at 20.17.30@2x](./assets/CleanShot%202023-01-30%20at%2020.17.30@2x.png)
+![CleanShot 2023-01-30 at 20.17.30@2x](https://raw.githubusercontent.com/harisonkhlil/oss/main/uPic/CleanShot%202023-01-30%20at%2020.17.30@2x.png)
 
