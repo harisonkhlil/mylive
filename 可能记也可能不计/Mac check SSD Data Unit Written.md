@@ -1,4 +1,4 @@
-# Mac check SSD Data Unit Written 
+# Mac check SSD Data Unit Written
 
 ## Install Homebrew
 
